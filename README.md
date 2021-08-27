@@ -1,0 +1,2 @@
+# House-Pricing-Kaggle-Competition
+Modul ini merupakan modul pertama yang dibuat dalam kompetisi harga jual rumah pada situs Kaggle yang dapat diakses melalui https://www.kaggle.com/c/house-prices-advanced-regression-techniques. Untuk memprediksi harga jual rumah pada test dataset, dibangun model linear regression dan juga random forest lalu dilakukan evaluasi model dengan melihat skor RMSE menggunakan train dataset yang displit terlebih dahulu.
